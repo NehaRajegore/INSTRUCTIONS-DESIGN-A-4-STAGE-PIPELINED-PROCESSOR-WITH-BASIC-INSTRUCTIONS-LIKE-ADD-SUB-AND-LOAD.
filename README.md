@@ -88,4 +88,6 @@ module Testbench;
         #50 $stop;
     end
 endmodule
+# output:[README.md](https://github.com/user-attachments/files/18814758/README.md)
+
 
